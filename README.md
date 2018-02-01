@@ -17,7 +17,9 @@ framework but is meant as a general purpose variant.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/smokesignal-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/smokesignal-feedstock)
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/smokesignal-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/smokesignal-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/smokesignal-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/smokesignal-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/smokesignal-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/smokesignal-feedstock/branch/master)
 
 Current release info
 ====================
