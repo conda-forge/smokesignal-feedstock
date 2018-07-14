@@ -17,14 +17,15 @@ framework but is meant as a general purpose variant.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/smokesignal-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/smokesignal-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/smokesignal-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/smokesignal-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/smokesignal-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/smokesignal-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/smokesignal-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/smokesignal-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/smokesignal/badges/version.svg)](https://anaconda.org/conda-forge/smokesignal)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/smokesignal/badges/downloads.svg)](https://anaconda.org/conda-forge/smokesignal)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-smokesignal-green.svg)](https://anaconda.org/conda-forge/smokesignal) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/smokesignal.svg)](https://anaconda.org/conda-forge/smokesignal) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/smokesignal.svg)](https://anaconda.org/conda-forge/smokesignal) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/smokesignal.svg)](https://anaconda.org/conda-forge/smokesignal) |
 
 Installing smokesignal
 ======================
